@@ -4,6 +4,6 @@ OpenRPC implementation for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/40ants/openrpc.git |
-| commit  | cc8e1f5                                   |
+| commit  | 58b7475                                   |
 | systems | openrpc-client openrpc-server             |
 |---------+-------------------------------------------|
